@@ -21,9 +21,9 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavodahora&repo=PomodoroTimer)](https://github.com/gustavodahora/PomodoroTimer)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavodahora&repo=tic-tac-toe)](https://github.com/gustavodahora/tic-tac-toe)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavodahora&repo=pass-generator)](https://github.com/gustavodahora/pass-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavodahora&repo=todos)](https://github.com/gustavodahora/todos)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavodahora&repo=github-profiles)](https://github.com/gustavodahora/github-profiles)
 
 ##
   
