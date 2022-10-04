@@ -1,23 +1,15 @@
-## Olá! Eu sou o Gustavo da Hora 👋
+## Hi! I'm Gustavo da Hora 👋
 
-- 🔭 Hoje eu trabalho com Mobile Android
-- 🌱 Estudando Jetpack Compose para Android
+- 🔭 Android Engineer
+- 🌱 Learning Jetpack Compose for Android
 
 <div>
   <a href="https://github.com/gustavodahora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodahora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodahora&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-Kotlin" height="40" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png">
-  <img align="center" alt="Gustavo-Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
-  <img align="center" alt="Gustavo-Android" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/android-os.png">
-</div>
   
-##
-  
-## Projetos pessoais:
+### Personal Projects
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavodahora&repo=PomodoroTimer)](https://github.com/gustavodahora/PomodoroTimer)
   
